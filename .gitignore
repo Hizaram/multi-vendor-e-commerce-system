@@ -5,3 +5,4 @@ node_modules/
 /src/migrations/*
 /**/config.js
 /**/config.json
+package.json
