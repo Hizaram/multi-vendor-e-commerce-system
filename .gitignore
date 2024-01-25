@@ -4,5 +4,7 @@ node_modules/
 .env
 /src/migrations/*
 /**/config.js
-/**/config.json
-package.json
+**config.json
+package**.json
+dist
+index**.js
