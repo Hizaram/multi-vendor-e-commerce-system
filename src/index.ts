@@ -1,5 +1,4 @@
 // index.ts
-// src/index.ts
 import "reflect-metadata";
 import { DataSourceOptions, createConnection } from 'typeorm';
 import express from "express";
