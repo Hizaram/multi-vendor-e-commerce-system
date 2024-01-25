@@ -7,4 +7,4 @@ node_modules/
 **config.json
 package**.json
 dist
-index.js
+index**.js
