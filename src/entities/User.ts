@@ -1,4 +1,4 @@
-// src/entities/User.ts
+//src/entities/User.ts
 import { Entity, PrimaryGeneratedColumn, Column, OneToMany } from "typeorm";
 import { Product } from "./Product";
 
