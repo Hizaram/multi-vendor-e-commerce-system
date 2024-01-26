@@ -49,7 +49,7 @@ Or install manually:
 
 ## Configuration
 ### Project Structure
-```css`
+```css
 projectDir/
 ├── tsconfig.json
 ├── ormconfig.json
