@@ -12,7 +12,7 @@ A simple multi-vendor e-commerce application where sellers can create, modify, a
 ## Getting Started
 Clone the repository using the following command:
 ```bash
-git clone <repository_link>
+git clone https://github.com/Hizaram/multi-vendor-e-commerce-system.git
 ```
 
 ## Prerequisites
