@@ -56,13 +56,13 @@ projectDir/
 ├── package.json
 └── src
     ├── entities
-    │ ├── Product.ts
-    │ └── User.ts
+    │   ├── Product.ts
+    │   └── User.ts
     ├── tests
-    │ └── unit
-    │ ├── database.test.ts
-    │ ├── product.test.ts
-    │ └── user.test.ts
+    │   └── unit
+    │       ├── database.test.ts
+    │       ├── product.test.ts
+    │       └── user.test.ts
     └── index.ts
 ```
 
