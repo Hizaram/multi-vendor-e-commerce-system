@@ -49,6 +49,7 @@ Or install manually:
 
 ## Configuration
 ### Project Structure
+```css`
 projectDir/
 ├── tsconfig.json
 ├── ormconfig.json
@@ -63,6 +64,7 @@ projectDir/
 │ ├── product.test.ts
 │ └── user.test.ts
 └── index.ts
+```
 
 ### Configure `ormconfig.json`
 ```json
