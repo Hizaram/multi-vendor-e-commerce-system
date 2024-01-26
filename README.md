@@ -22,7 +22,6 @@ git clone <repository_link>
 - TypeORM
 - MySQL
 - Express
-- Jest
 
 ## Installation
 Install all dependencies using the `package.json` file:
