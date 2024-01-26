@@ -55,15 +55,15 @@ projectDir/
 ├── ormconfig.json
 ├── package.json
 └── src
-├── entities
-│ ├── Product.ts
-│ └── User.ts
-├── tests
-│ └── unit
-│ ├── database.test.ts
-│ ├── product.test.ts
-│ └── user.test.ts
-└── index.ts
+    ├── entities
+    │ ├── Product.ts
+    │ └── User.ts
+    ├── tests
+    │ └── unit
+    │ ├── database.test.ts
+    │ ├── product.test.ts
+    │ └── user.test.ts
+    └── index.ts
 ```
 
 ### Configure `ormconfig.json`
